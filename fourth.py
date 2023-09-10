@@ -5,3 +5,7 @@ def greet(name):
 
 
 greet("Ashu")
+
+
+# Function with Parameters
+
