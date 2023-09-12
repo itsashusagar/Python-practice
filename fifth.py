@@ -1,6 +1,5 @@
 # file Handling
 
-with open("one.txt" , "r") as file:
-    content = file.read()
+f = open("one.txt" , "r")
 
-    print(content)
+print(f.read())
